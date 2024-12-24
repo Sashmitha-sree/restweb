@@ -27,7 +27,8 @@ Validate the HTML code.
 ### Step 7:
 Publish the website in the given URL.
 
-## PROGRAM:kgkhjc,td,yv,hv,jhv,ytt
+## PROGRAM:
+welcome
 
 
 ## OUTPUT:
