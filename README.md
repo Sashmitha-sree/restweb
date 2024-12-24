@@ -28,9 +28,9 @@ Validate the HTML code.
 Publish the website in the given URL.
 
 ## PROGRAM:
+
 ```
 HOME PAGE CSS
-
 
 body {
     background-color: beige;
@@ -247,7 +247,8 @@ HOME PAGE
 ```
 
 ## OUTPUT:
-
-
+![alt text](<Screenshot (70).png>)
+![alt text](<Screenshot (71).png>)
+![alt text](<Screenshot (72).png>)
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
