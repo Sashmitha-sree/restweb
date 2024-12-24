@@ -1,0 +1,94 @@
+/* styles.css */
+
+/* General Page Styles */
+body {
+    background-color: beige;
+    font-family: Arial, sans-serif;
+}
+
+.navbar {
+    background-color: darkred;
+}
+
+.navbar-brand {
+    font-family: 'Liam', sans-serif;
+    color: white;
+}
+
+.navbar-nav .nav-link {
+    color: white;
+}
+
+.navbar-nav .nav-link:hover {
+    color: #f8f9fa;
+}
+
+.text-danger {
+    color: red;
+}
+
+.text-center {
+    text-align: center;
+}
+
+/* Card Styles */
+.card {
+    margin-bottom: 20px;
+}
+
+.card-img-top {
+    width: 100%;
+    height: auto;
+}
+
+.card-body {
+    text-align: center;
+}
+
+/* Footer Styles */
+footer {
+    background-color: #f8f9fa;
+    text-align: center;
+    padding: 10px;
+}
+
+/* Background Image for the Container */
+.container-background {
+    background-image: url('images/your-background.jpg');
+    background-size: cover;
+    background-position: center;
+    padding: 50px;
+    color: white;
+}
+
+/* Administration Section */
+.admin-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+    text-align: center;
+}
+
+.admin-item img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+
+.admin-item p {
+    margin-top: 10px;
+}
+
+/* Section Titles */
+h2 {
+    font-family: 'Liam', sans-serif;
+    font-size: 1.5rem;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+h1 {
+    font-family: 'Liam', sans-serif;
+    font-size: 2rem;
+    color: #dc3545;
+}
